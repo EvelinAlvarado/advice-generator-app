@@ -28,11 +28,11 @@ This is an Advice Generator app built with React. It fetches random pieces of ad
 ## Screenshots
 
 <div align="center" >
-  <img src="src/assets/images/MacBook Pro-1715853302871.jpeg" width="80%" />
+  <img src="public/MacBook Pro-1715853302871.jpeg" width="80%" />
   <br/><br/>
-  <img src="src/assets/images/iPad-1715853302862.jpeg" width="40%" /> 
+  <img src="public/iPad-1715853302862.jpeg" width="40%" /> 
    <br/><br/>
-  <img src="src/assets/images/iPhone 12 Pro-1715853302863.jpeg" width="20%" /> 
+  <img src="public/iPhone 12 Pro-1715853302863.jpeg" width="20%" /> 
 </div>
 
 ## Additional Information
